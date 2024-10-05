@@ -122,6 +122,7 @@ hr {
     input[type=text] {
         padding: 1rem 1.3rem;
         width: 100px;
+        font-size: 1.4rem;
     }
     .icon img {
         width: 28px;
