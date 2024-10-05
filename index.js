@@ -87,8 +87,6 @@ icon.addEventListener('click', () => {
     }
 });
 
-console.log(currentMonth);
-
 
 
 
